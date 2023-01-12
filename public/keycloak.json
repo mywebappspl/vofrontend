@@ -1,0 +1,11 @@
+{
+    "realm": "testapp",
+    "auth-server-url": "https://auth.mywebapps.pl/",
+    "ssl-required": "external",
+    "resource": "react-web-app",
+    "clientId": "react-web-app",
+    "public-client": true,
+    "verify-token-audience": true,
+    "use-resource-role-mappings": true,
+    "confidential-port": 0
+  }
